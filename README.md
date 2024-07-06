@@ -8,7 +8,11 @@ https://profiles.datawars.io/syedsameer.faisal23/projects/637502af-b693-44d2-8a1
 https://profiles.datawars.io/syedsameer.faisal23/projects/54b07e96-f0da-4b5d-ba40-c87475e42b8e
 
 3) The Birthday Paradox in the NBA [🟡 Intermediate]
-https://app.datawars.io/project/865c74c4-fd9e-4694-a4a0-b7cdfbd4ea71?page=1
+https://profiles.datawars.io/syedsameer.faisal23/projects/865c74c4-fd9e-4694-a4a0-b7cdfbd4ea71
 
 4) Matching Strings by Similarity using Levenshtein distance [🟡 Intermediate]
 https://profiles.datawars.io/syedsameer.faisal23/projects/1a9c84e4-2dd2-47b2-8f28-398ed0a65854
+
+5) From Raw to Refined: Hands-On Mobile Phone Data Cleaning [🟡 Intermediate]
+https://profiles.datawars.io/syedsameer.faisal23/projects/c130a29e-6066-47bd-999e-f4f74d106fb4
+ 
